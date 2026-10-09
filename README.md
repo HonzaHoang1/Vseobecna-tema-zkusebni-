@@ -16,3 +16,4 @@ Dobrý večer
 2. je
 3. cislovany
 4. seznam
+5. a odejdi
